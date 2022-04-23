@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @carne8
-- 👀 I’m interested in dev and photography
+- 👋 Hi, I’m Gaël Bouquain
+- 👀 I’m interested in dev, photography and Formula 1
 - 🌱 I’m currently learning F#
 
 <!---
